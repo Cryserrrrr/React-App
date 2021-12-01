@@ -17,7 +17,7 @@ const GlobalStyle = createGlobalStyle`
     padding: 0;
     
     font-family: 'Nunito',sans-serif;
-    background-color: white;
+    background-color: #020e19;
   
   }
 `;

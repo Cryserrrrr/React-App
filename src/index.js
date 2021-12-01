@@ -1,14 +1,14 @@
 import React, { Fragment } from 'react';
 import ReactDOM from 'react-dom';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
+import AllApp from './HomePage';
 
 import GlobalStyle from './theme/index.js'
 
 ReactDOM.render(
   <Fragment>
     <GlobalStyle />
-    <App />
+    <AllApp />
   </Fragment>,
   document.getElementById('root')
 );
